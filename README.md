@@ -1,0 +1,2 @@
+# SmokeBOT
+A discord bot.
