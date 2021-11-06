@@ -30,7 +30,7 @@ class Events(commands.Cog):
             content = ""
             await message.channel.send(content)
         
-        #Sends a message to an specified user.
+        #Sends a message when an specified user sends a messages.
         if str(message.author) == '':
             await message.channel.send('')
         
