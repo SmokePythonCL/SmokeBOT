@@ -1,6 +1,6 @@
-# SmokeBOT
-A discord bot.
+# Python
+
+A basic discord bot in development.
 
 Using:
-  Discord.py
-  Discord-py-interactions
+    Nextcord
